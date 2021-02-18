@@ -15,9 +15,6 @@ My published code is hosted at my [UW Gitlab account](https://git.uwaterloo.ca/p
 
 ~~~<i class="fab fa-github" title="Paper" style="width:1.5em"></i>~~~ @pcjentsch
 
-~~~<i class="fab fa-twitter" title="Paper" style="width:1.5em"></i>~~~ @pcjentsch
-
-
 
 
 
