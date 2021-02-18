@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {{if hasmath}} {{insert head_katex.html }}     {{end}}
+    {{if hascode}} {{insert head_highlight.html }}   {{end}}
+    {{insert style.html}}
+    {{isdef title}} <title>{{fill title}}</title>  {{end}}
+  <style>
+    body {
+      background-image: url("/assets/black-thread-light.png");
+    }
+  </style>
+   <script src="https://kit.fontawesome.com/8106cce1f2.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+{{insert nav.html}}
+
+
+<!-- Content appended here -->
