@@ -5,7 +5,7 @@ The website_* must be defined for the RSS to work
 -->
 @def website_title = "Peter C. Jentsch"
 @def website_descr = "Peter Jentsch's personal website"
-@def prepath = "~pjentsch"
+@def prepath = ""
 @def author = "Peter C. Jentsch"
 
 @def mintoclevel = 2
