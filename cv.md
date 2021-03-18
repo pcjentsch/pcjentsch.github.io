@@ -8,21 +8,14 @@ Please click [here](/assets/cv.pdf) for my full CV.
 
 
 
-# Accepted, Submitted, or In Preparation
+
+# Journal Publications
 
 -   **Jentsch PC**, Anand M, Bauch CT. Prioritising Covid-19 vaccination
-    in changing social and epidemiological landscapes. medRxiv. 2020
+    in changing social and epidemiological landscapes. medRxiv. 2021
     Jan 1. *Accepted, Lancet Infectious Diseases*. [Preprint ~~~<i class="fas fa-file-pdf"></i>~~~](https://www.medrxiv.org/content/10.1101/2020.09.25.20201889v2) [ Code ~~~<i class="fab fa-gitlab"></i>~~~](https://git.uwaterloo.ca/pjentsch/prioritizing-covid-19-vaccination-in-changing-social-and-epidemiological-landscapes)
 
--   **Jentsch PC**, Nehaniv CL. Exploring Tetris as a Transformation
-    Semigroup. *Accepted, proceedings of AMMCS2019*. [Preprint ~~~<i class="fas fa-file-pdf"></i>~~~](https://arxiv.org/abs/2004.09022)
 
--   **Jentsch PC**, Anand M, Bauch CT. Fire Mitigates Bark Beetle
-    Outbreaks in Serotinous Forests. Under Review.
-
-
-
-# Peer-reviewed Publications
 
 -   **Jentsch PC**, Bauch CT, Yemshanov D, Anand M. Go big or go home: A
     model-based assessment of general strategies to slow the spread of
@@ -34,9 +27,6 @@ Please click [here](/assets/cv.pdf) for my full CV.
     network. Journal of theoretical biology. 2018 Jul 7;448:17-25.[Article ~~~<i class="fas fa-file-pdf"></i>~~~](https://www.sciencedirect.com/science/article/pii/S0022519318301401/pdfft?casa_token=_P0EHpfmy8oAAAAA:UszlxmNMLPSSMHDeqgBBFp32mFejlzCFYFCXnNoDX_i_1ywK4FnbnjLzUW19Cn9nsk11jUwTIQ&md5=f3f02ce434519db6174965305c0f647c&pid=1-s2.0-S0022519318301401-main.pdf)
 
 
--   **Jentsch PC**, Boukhtouta A. A Simulation Study Of Military Land
-    Equipment Availability Under Corrective And Preventive Maintenance
-    Regimes. In ECMS 2015 (pp. 373-379).[Article ~~~<i class="fas fa-file-pdf"></i>~~~](https://pdfs.semanticscholar.org/3a30/3602f00b5f57f0079a52ffe7aae6c70facad.pdf)
 
 -   Pedro SA, Ndjomatchoua FT, **Jentsch P**, Tchuenche JM, Anand M,
     Bauch CT. Conditions for a Second Wave of COVID-19 Due to
@@ -52,6 +42,27 @@ Please click [here](/assets/cv.pdf) for my full CV.
 -   Rao CJ, Liu JE, Dong JH, **Jentsch PC**. Hybrid multi-attribute
     decision making method of electric coal procurement in industry.
     Fuzzy Information and Engineering. 2014 Dec 1;6(4):451-62.[Article ~~~<i class="fas fa-link"></i>~~~](https://www.sciencedirect.com/science/article/pii/S1616865815000059)
+
+
+
+
+# Submitted, or In Preparation
+
+-   **Jentsch PC**, Anand M, Bauch CT. Fire Mitigates Bark Beetle
+    Outbreaks in Serotinous Forests. Under Review.
+
+
+# Conference Publications
+
+
+-   **Jentsch PC**, Boukhtouta A. A Simulation Study Of Military Land
+    Equipment Availability Under Corrective And Preventive Maintenance
+    Regimes. In ECMS 2015 (pp. 373-379).[Article ~~~<i class="fas fa-file-pdf"></i>~~~](https://pdfs.semanticscholar.org/3a30/3602f00b5f57f0079a52ffe7aae6c70facad.pdf)
+
+
+-   **Jentsch PC**, Nehaniv CL. Exploring Tetris as a Transformation
+    Semigroup. *Accepted, proceedings of AMMCS2019*. [Preprint ~~~<i class="fas fa-file-pdf"></i>~~~](https://arxiv.org/abs/2004.09022)
+
 
 
 # Conference Presentations
