@@ -7,7 +7,7 @@ I'm also more broadly interested in music, botany, ecology, and open source.
 
 I do the majority of my research development in [Julia](https://julialang.org/) these days, and vastly prefer working in Julia to other languages for scientific programming.
 
-Code for my publications is hosted at my [UW Gitlab account](https://git.uwaterloo.ca/pjentsch), please see the [research](/cv) section for links to specific repositories.
+Code for my publications is hosted at my [UW Gitlab account](https://git.uwaterloo.ca/pjentsch), please see the [research](/cv) section of my website for links to specific repositories.
 
 
 
