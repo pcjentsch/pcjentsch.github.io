@@ -9,11 +9,13 @@ I do the majority of my research development in [Julia](https://julialang.org/) 
 
 Code for my publications is hosted at my [UW Gitlab account](https://git.uwaterloo.ca/pjentsch), please see the [research](/cv) section for links to specific repositories.
 
+
+
 ~~~<i class="fa fa-envelope" title="Paper" style="width:1.5em"></i>~~~ (firstinitial)(lastname)@uwaterloo.ca
 
 ~~~<i class="far fa-building" title="Paper" style="width:1.5em"></i>~~~ MC6404, UW Main Campus
 
-~~~<i class="fab fa-github" title="Paper" style="width:1.5em"></i>~~~ @pcjentsch
+[~~~<i class="fab fa-github" title="Paper" style="width:1.5em"></i>~~~ @pcjentsch](https://github.com/pcjentsch)
 
 
 
