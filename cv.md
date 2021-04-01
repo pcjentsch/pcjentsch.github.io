@@ -12,8 +12,7 @@ Please click [here](/assets/cv.pdf) for my full CV.
 # Journal Publications
 
 -   **Jentsch PC**, Anand M, Bauch CT. Prioritising Covid-19 vaccination
-    in changing social and epidemiological landscapes. medRxiv. 2021
-    Jan 1. *Accepted, Lancet Infectious Diseases*. [Preprint ~~~<i class="fas fa-file-pdf"></i>~~~](https://www.medrxiv.org/content/10.1101/2020.09.25.20201889v2) [ Code ~~~<i class="fab fa-gitlab"></i>~~~](https://git.uwaterloo.ca/pjentsch/prioritizing-covid-19-vaccination-in-changing-social-and-epidemiological-landscapes)
+    in changing social and epidemiological landscapes. Lancet Infectious Diseases, 2021. [Article ~~~<i class="fas fa-link"></i>~~~](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00057-8/fulltext) [ Code ~~~<i class="fab fa-gitlab"></i>~~~](https://git.uwaterloo.ca/pjentsch/prioritizing-covid-19-vaccination-in-changing-social-and-epidemiological-landscapes)
 
 
 
