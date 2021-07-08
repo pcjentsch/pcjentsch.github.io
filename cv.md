@@ -11,6 +11,10 @@ Please click [here](/assets/cv.pdf) for my full CV.
 
 # Journal Publications
 
+-  **Jentsch PC**, Bauch CT, Anand M. Fire mitigates bark beetle outbreaks in serotinous forestsy. Theoretical Ecology. 2021 Mar 31. [Article ~~~<i class="fas fa-link"></i>~~~](https://doi.org/10.1007/s12080-021-00520-y) [ Code ~~~<i class="fab fa-gitlab"></i>~~~](https://git.uwaterloo.ca/pjentsch/fire-mitigates-bark-beetle-outbreaks-in-serotinous-forests)
+
+
+
 -  **Jentsch PC**, Anand M, Bauch CT. Prioritising COVID-19 vaccination in changing social and epidemiological landscapes: a mathematical modelling study. The Lancet Infectious Diseases. 2021 Mar 31. [Article ~~~<i class="fas fa-link"></i>~~~](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00057-8/fulltext) [ Code ~~~<i class="fab fa-gitlab"></i>~~~](https://git.uwaterloo.ca/pjentsch/prioritizing-covid-19-vaccination-in-changing-social-and-epidemiological-landscapes)
 
 
