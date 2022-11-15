@@ -50,8 +50,10 @@ Please click [here](/assets/cv.pdf) for my full CV.
 
 # Submitted, or In Preparation
 
--   **Jentsch PC**, Anand M, Bauch CT. Fire Mitigates Bark Beetle
-    Outbreaks in Serotinous Forests. Under Review.
+-   **Peter C. Jentsch**, Calvin Sjaarda, Jennifer Guthrie, Robert A. Kozak, Chris Kandel, Prameet Seth, Allison McGeer, Samira Mubareka, Finlay Maguire. Best of a Bad Method: Optimal use of SNP distance thresholds for SARS-CoV-2 transmission clustering.
+
+-   **Peter C. Jentsch**, Finlay Maguire, Samira Mubareka. Large-scale mapping of antigenic relationships in Sars-CoV-2.
+
 
 
 # Conference Publications
