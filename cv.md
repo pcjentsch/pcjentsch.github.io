@@ -11,7 +11,7 @@ Please click [here](/assets/cv.pdf) for my full CV.
 
 # Journal Publications
 
--  **Jentsch PC**, Bauch CT, Anand M. Fire mitigates bark beetle outbreaks in serotinous forestsy. Theoretical Ecology. 2021 Mar 31. [Article ~~~<i class="fas fa-link"></i>~~~](https://doi.org/10.1007/s12080-021-00520-y) [ Code ~~~<i class="fab fa-gitlab"></i>~~~](https://git.uwaterloo.ca/pjentsch/fire-mitigates-bark-beetle-outbreaks-in-serotinous-forests)
+-  **Jentsch PC**, Bauch CT, Anand M. Fire mitigates bark beetle outbreaks in serotinous forests. Theoretical Ecology. 2021 Mar 31. [Article ~~~<i class="fas fa-link"></i>~~~](https://doi.org/10.1007/s12080-021-00520-y) [ Code ~~~<i class="fab fa-gitlab"></i>~~~](https://git.uwaterloo.ca/pjentsch/fire-mitigates-bark-beetle-outbreaks-in-serotinous-forests)
 
 
 
